@@ -1,7 +1,6 @@
 <p align="center">
-  <img src="https://s3-alpha.figma.com/hub/file/5678700701/91e47b29-8ba0-49cd-a943-01a910e8199d-cover.png" alt="MasterHead" width="100%">
+  <img src="https://raw.githubusercontent.com/codebyniranjann/codebyniranjann/main/assets/banner.png" width="100%" alt="Banner">
 </p>
-
 <h1 align="center">Hi 👋, I'm Niranjan</h1>
 <h3 align="center">A passionate developer from India</h3>
 
