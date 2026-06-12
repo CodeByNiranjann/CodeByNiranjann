@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/codebyniranjann/codebyniranjann/main/assets/banner.png" width="100%" alt="Banner">
-</p>
+![MasterHead](https://raw.githubusercontent.com/codebyniranjann/codebyniranjann/main/assets/banner.png)
 <h1 align="center">Hi 👋, I'm Niranjan</h1>
 <h3 align="center">A passionate developer from India</h3>
 
